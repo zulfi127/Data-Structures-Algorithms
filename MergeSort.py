@@ -1,8 +1,7 @@
-# Name: Zulipiye Yusupujiang
 # Course Name: Advanced Programming for Language Technologist
 # Data: Jan.14, 2016
 # Assignment 3
-# Question 5
+
 
 def mergeSort(alist):
 	print("Splitting", alist)
