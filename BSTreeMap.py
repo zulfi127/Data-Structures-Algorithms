@@ -1,9 +1,7 @@
-# Name: Zulipiye Yusupujiang
-# Course Name: Advanced Technology for Language Technologist
+# Course Name: Advanced Programming for Language Technologist
 # Data: Jan.22, 2016
 # Assignment 3
-# Question 3
-# I got the idea from the text book PS, and also discussed with Fatomato about some solutions.
+
 
 class BSNode:
 	def __init__(self,key,val,left=None,right=None,parent=None):
