@@ -1,9 +1,7 @@
-# Name: Zulipiye Yusupujiang
-# Course Name: Advanced Technology for Language Technologist
+# Course Name: Advanced Programming for Language Technologist
 # Data: Jan.14, 2016
 # Assignment 3
-# Question 1
-# I got the idea from the book PS, and disscussed about some solutions with Mary.
+
 
 class Tree:
     def __init__(self,ldef):
