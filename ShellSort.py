@@ -1,11 +1,7 @@
-# Name: Zulipiye Yusupujiang
-# Course Name: Advanced Technology for Language Technologist
+# Course Name: Advanced Programming for Language Technologist
 # Data: Jan.14, 2016
 # Assignment 3
-# Question 6b
 
-# Implementation on ShellSort
-# I got this idea from the text book PS
 
 def shellSort(alist):
     sublistcount = len(alist)//2 
