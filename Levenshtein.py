@@ -1,13 +1,7 @@
 
-# Name: Zulipiye Yusupujiang
-# Course Name: Advanced Technology for Language Technologist
+# Course Name: Advanced Programming for Language Technologist
 # Data: Jan 06, 2016
 # Assignment 2
-# Question 4a
-
-#  I can print out the table with two strings and numbers,but I could not able to add the letters such as i,d,s,m in the table with the following solution. So got help from Richard, and wrote the another different code for printing a table with those letters( so please look at my second code for this question 4b)
-
-
 
 
 class LevenshteinTable:
